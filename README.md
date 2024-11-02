@@ -1,3 +1,3 @@
 # platforma-download-counter
 Platforma Download Counter
-![](https://waleongames.github.io/modrinth-badge/badge.svg)
+![](https://waleongames.github.io/platforma-download-counter/bagde.svg)
