@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="40" viewBox="0 0 180 40" role="img">
+    <rect x="75" y="5" rx="4" ry="4" width="105" height="30" fill="limegreen"/>
+    <text x="130" y="25" font-family="Arial" font-size="12" fill="white" text-anchor="middle">0 Pobrania</text>
+    <rect x="0" y="5" rx="4" ry="4" width="75" height="30" fill="#555"/>
+    <text x="37.5" y="25" font-family="Arial" font-size="12" fill="white" text-anchor="middle">Modrinth</text>
+</svg>
